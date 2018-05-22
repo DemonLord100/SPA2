@@ -56,8 +56,10 @@ ul{
 #myBtn:hover {
     background-color: #555; /* Add a dark-grey background on hover */
 }
-.myNav {
+/*
+.navbar-dark bg-dark {
 border: 0;
 border-radius: 0;
 background: rgba(0,0,0.2);
-}
+
+*/
